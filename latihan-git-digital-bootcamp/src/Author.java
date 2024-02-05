@@ -1,4 +1,7 @@
-
+/*
+ * Created By : Muhammad Ghozi AG
+ * Created at : 5 February 2023
+ */
 public class Author {
 	//Attribute
 	private String firstName;
